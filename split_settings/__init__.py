@@ -6,6 +6,6 @@ Easily override and modify settings. Use wildcards and optional
 settings files.
 """
 
-__version__ = '0.1.3'
+__version__ = '0.1.4'
 
 __all__ = ['__version__']
