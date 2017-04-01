@@ -2,7 +2,7 @@
 
     <a href="https://github.com/sobolevn/django-split-settings">
       <p align="center">
-         <img src="media/logo-black.png">
+         <img src="other/logo-black.png">
       </p>
     </a>
 
